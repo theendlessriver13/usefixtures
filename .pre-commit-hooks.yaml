@@ -1,0 +1,6 @@
+-   id: usefixtures
+    name: usefixtures
+    description: rewrite pytest fixtures to @pytest.mark.usefixtures
+    entry: usefixtures
+    language: python
+    types: [python]
